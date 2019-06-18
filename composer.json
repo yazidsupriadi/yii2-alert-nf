@@ -1,0 +1,21 @@
+{
+    "name": "yazidsupriadi/yii2-alert-nf",
+    "description": "Widget alert twitter bootsrap for Yii2 Framework",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","alert"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "muhammad yazid supriadi",
+            "email": "yazidsupriadi14@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "yazidsupriadi\\alert\\": ""
+        }
+    }
+}
